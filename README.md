@@ -1,8 +1,8 @@
 # Pietro Scarpa
 
-pietroscarpa@gmail.com
-
 <img alt="Pietro_Scarpa" src="https://pscarpa.github.io/pietro.jpg" width="200">
+
+pietroscarpa@gmail.com
 
 ## Competencies
 **Legal** 
@@ -111,3 +111,6 @@ PHAP (Professionals in Humanitarian Assistance and Protection) Professional Memb
 
 ## Linguistic Proficiency
 Italian, English, Spanish
+
+
+pietroscarpa@gmail.com

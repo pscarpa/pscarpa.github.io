@@ -1,18 +1,18 @@
 # Pietro Scarpa
 ## Competencies
-Legal 
+**Legal** 
 Student of and practitioner of Refugee Law, I experienced supporting both refugees and migrants in their applications for refugee status and permits of stay; also supported naturalisation applications and drafted appeals in case of denials.
 
-Accounting & Operations Support 
+**Accounting & Operations Support**
 Having a degree in Economics from a leading European university and thanks to a stint at KPMG, the global External Audit firm, I acquired skills in both Accounting and Administration. Experiences in Operations Supports in a Development project, and an Electoral Campaign furthered the ability to tackle roles efficiently in Project Management and in handling high volumes of paperwork. 
 
-Editorial activities and Communications
+**Editorial activities and Communications**
 Involved several times in communications work, I started my professional career at Lavoce, Italian opinion leading magazine, supporting editorial activities and thanks to good recommendations I did a consultancy to the Italian Fiscal Council. Then, freelance Web Designer, currently I am in the Communications unit of a political movement.
 
-First Aid & Psychological First Aid 
+**First Aid & Psychological First Aid**
 Ambulance Worker and Civil Protection Volunteer, I am trained and have experience in supporting people in distress and emergencies, by providing the due care, both medical then psychological, to stabilise the patients.
 
-International Development 
+**International Development**
 I have been awarded a Degree with Merit from the School of Oriental and African Studies (SOAS) of University of London, leading institution in the field, and worked in Argentina by being in charge of improving and research the feasibility of a project of Slum upgrading and Microfinance. Also, I supported the Argentinian NGO Horizonte de Maxima in conceptualising the development of their programme of building emergency shelters.
 
 
@@ -27,6 +27,7 @@ Alimadhi Law Firm, Italy
 *	Requesting accesses to the Schengen Information System
 *	Dealing in person with relevant authorities, such as Police and the Prefecture
 *	Been assigned direct responsibilities for handling a number of cases with limited supervision;
+
 
 Volunteer Ambulance Worker	November 2017 - present
 Assistenza Pubblica, Italy

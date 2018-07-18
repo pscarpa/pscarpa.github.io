@@ -81,21 +81,21 @@ Lavoce.info, Italy
 *	Promoted the publications on the social media channels of the magazine
 
 ## Higher Education
-School of Advanced Studies, University of London	March 2018 - present	
+* School of Advanced Studies, University of London	March 2018 - present	
 **MA, Refugee Protection and Forced Migration Studies** (Distance Learning)
-*	Subjects include Methods and Theories of Refugee Protection and International Refugee Law
+    *	Subjects include Methods and Theories of Refugee Protection and International Refugee Law
 
-SOAS, University of London	September 2014 – September 2015
+* SOAS, University of London	September 2014 – September 2015
 **MSc, Globalisation and Development**
-*	Degree focused on Theories and Practices of International Development, awarded with Merit
+    *	Degree focused on Theories and Practices of International Development, awarded with Merit
 
-Bocconi University, Milan	September 2010 – February 2014
+* Bocconi University, Milan	September 2010 – February 2014
 **BSc, Economics and Social Sciences**
 
 ## Courses
-International Humanitarian Law, Catholic University of Louvain
-Humanitarian Response to Conflict and Disaster, Harvard Humanitarian Initiative
-Psychological First Aid, Johns Hopkins Center for Public Health Preparedness
+* International Humanitarian Law, Catholic University of Louvain
+* Humanitarian Response to Conflict and Disaster, Harvard Humanitarian Initiative
+* Psychological First Aid, Johns Hopkins Center for Public Health Preparedness
 
 ## Training
 *	First Aid and Basic Life Support (Adult and Paediatric)

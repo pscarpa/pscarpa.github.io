@@ -2,9 +2,8 @@
 
 pietroscarpa@gmail.com
 
-![alt text][pietro]
+![Pietro Scarpa](https://pscarpa.github.io/pietro.jpg)
 
-[pietro]: https://pscarpa.github.io/pietro.png "Pietro Scarpa"
 
 ## Competencies
 **Legal** 

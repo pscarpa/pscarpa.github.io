@@ -1,7 +1,7 @@
 # Pietro Scarpa
 ## Competencies
 **Legal** 
-Student of and practitioner of Refugee Law, I experienced supporting both refugees and migrants in their applications for refugee status and permits of stay; also supported naturalisation applications and drafted appeals in case of denials.
+Student and practitioner of Refugee Law, I experienced supporting both refugees and migrants in their applications for refugee status and permits of stay; also supported naturalisation applications and drafted appeals in case of denials.
 
 **Accounting & Operations Support**
 Having a degree in Economics from a leading European university and thanks to a stint at KPMG, the global External Audit firm, I acquired skills in both Accounting and Administration. Experiences in Operations Supports in a Development project, and an Electoral Campaign furthered the ability to tackle roles efficiently in Project Management and in handling high volumes of paperwork. 
@@ -18,7 +18,7 @@ I have been awarded a Degree with Merit from the School of Oriental and African 
 
 
 ## Work history
-Legal Trainee	December 2017 – July 2018
+**Legal Trainee**	December 2017 – July 2018
 Alimadhi Law Firm, Italy
 *	Providing legal assistance to asylum seekers in RSD procedures
 *	Providing legal aid to migrants in application for permits of stay and their renewal
@@ -29,14 +29,14 @@ Alimadhi Law Firm, Italy
 *	Been assigned direct responsibilities for handling a number of cases with limited supervision;
 
 
-Volunteer Ambulance Worker	November 2017 - present
+**Volunteer Ambulance Worker**	November 2017 - present
 Assistenza Pubblica, Italy
 *	Rescuer operating in both health emergencies and in regular transport of patients to and from hospitals
 *	Operated as a Civil Protection volunteer in the evacuation of a village 
 
 
 
-Operations Support	Apr 2017 – September 2017
+**Operations Support**	Apr 2017 – September 2017
 Electoral Campaign, Italy
 *	Managed activities and coordinated with vendors the purchasing of relevant materials
 *	Coordinated the logistics of the campaign for around 100.00 euros of purchases
@@ -44,7 +44,7 @@ Electoral Campaign, Italy
 *	Promoted the candidacy in social media and by arranging print advertising in the city
 *	Researched and developed online tools to foster the spreading of critical messages
 	
-Intern	September 2016 – March 2017
+**Intern**	September 2016 – March 2017
 KPMG, Italy
 *	Reconciled clients’ ledgers and performed the external audit of several clients
 *	Worked in teams on a number of small and bigger clients under the coordination of a group leader
@@ -53,7 +53,7 @@ KPMG, Italy
 *	In charge of reporting to the management content and criticalities of a contract of joint-venture for the building of a major pipeline connecting Russia to Western Europe
 *	Received an employment offer
 
-International Volunteer Project Assistant	January 2016 – August 2016
+**International Volunteer Project Assistant**	January 2016 – August 2016
 Fundacion Pro Vivienda Social, Argentina
 *	In the development of a pilot project of slum upgrading and microfinance targeting  50.000 beneficiaries
 *	Led on the evaluation of the economic feasibility of project for around US$ 200.000 in yearly budget
@@ -63,17 +63,17 @@ Fundacion Pro Vivienda Social, Argentina
 *	Trained the community leaders in the functioning of the microfinance methodology
 *	Received an employment offer
 
-Communications Consultant	July 2014 – December 2015
+**Communications Consultant**	July 2014 – December 2015
 Italian Fiscal Office, Italy
 *	In charge of developing the websites and the online communications plan of the agency 
 *	Responsible for handling technical coordination between the agency and the Italian Senate
 *	Engaged in frequent communications with the staff of UPB, to support them in dealing with organizational problems indirectly connected to the project
 *	Supported the UPB in defining its priorities in external communications
 *	Managed communications internal to the project with primary stakeholders and helped remove impediments to its conclusion such as: 
-o	Misunderstandings between the stakeholders on the main tasks of the project
-o	Settled different priorities such as technical preferences versus flexibility
+    *	Misunderstandings between the stakeholders on the main tasks of the project
+    *	Settled different priorities such as technical preferences versus flexibility
 
-Editorial Assistant	November 2012 – July 2014
+**Editorial Assistant**	November 2012 – July 2014
 Lavoce.info, Italy
 *	Ensured the technical accuracy and completeness in the biweekly publications
 *	Coordinated with external contributors and followed up on communications 
@@ -82,13 +82,13 @@ Lavoce.info, Italy
 
 ## Higher Education
 School of Advanced Studies, University of London	March 2018 - present	
-MA, Refugee Protection and Forced Migration Studies (Distance Learning)
+**MA, Refugee Protection and Forced Migration Studies** (Distance Learning)
 *	Subjects include Methods and Theories of Refugee Protection and International Refugee Law
 SOAS, University of London	September 2014 – September 2015
-MSc, Globalisation and Development
+**MSc, Globalisation and Development**
 *	Degree focused on Theories and Practices of International Development, awarded with Merit
 Bocconi University, Milan	September 2010 – February 2014
-BSc, Economics and Social Sciences
+**BSc, Economics and Social Sciences**
 Courses
 International Humanitarian Law, Catholic University of Louvain
 Humanitarian Response to Conflict and Disaster, Harvard Humanitarian Initiative

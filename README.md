@@ -1,7 +1,5 @@
-# pscarpa.github.io
-
-Pietro Scarpa
-Competencies
+# Pietro Scarpa
+## Competencies
 Legal 
 Student of and practitioner of Refugee Law, I experienced supporting both refugees and migrants in their applications for refugee status and permits of stay; also supported naturalisation applications and drafted appeals in case of denials.
 
@@ -19,7 +17,7 @@ I have been awarded a Degree with Merit from the School of Oriental and African 
 
 
 
-Work history
+## Work history
 Legal Trainee	December 2017 – July 2018
 Alimadhi Law Firm, Italy
 •	Providing legal assistance to asylum seekers in RSD procedures
@@ -81,7 +79,7 @@ Lavoce.info, Italy
 •	Researched topics of interest to the editorial board
 •	Promoted the publications on the social media channels of the magazine
 
-Higher Education
+## Higher Education
 School of Advanced Studies, University of London	March 2018 - present	
 MA, Refugee Protection and Forced Migration Studies (Distance Learning)
 •	Subjects include Methods and Theories of Refugee Protection and International Refugee Law
@@ -95,12 +93,12 @@ International Humanitarian Law, Catholic University of Louvain
 Humanitarian Response to Conflict and Disaster, Harvard Humanitarian Initiative
 Psychological First Aid, Johns Hopkins Center for Public Health Preparedness
 
-Training
+## Training
 •	First Aid and Basic Life Support (Adult and Paediatric)
 •	Trained for and in the volunteer pool of the Italian Civil Protection
 
-Membership
+## Membership
 PHAP (Professionals in Humanitarian Assistance and Protection) Professional Member
 
-Linguistic Proficiency
+## Linguistic Proficiency
 Italian, English, Spanish

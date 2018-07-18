@@ -2,6 +2,10 @@
 
 pietroscarpa@gmail.com
 
+![alt text][pietro]
+
+[pietro]: https://pscarpa.github.io/pietro.png "Pietro Scarpa"
+
 ## Competencies
 **Legal** 
 Student and practitioner of Refugee Law, I experienced supporting both refugees and migrants in their applications for refugee status and permits of stay; also supported naturalisation applications and drafted appeals in case of denials.

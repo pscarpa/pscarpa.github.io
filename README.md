@@ -2,8 +2,7 @@
 
 pietroscarpa@gmail.com
 
-![Pietro Scarpa](https://pscarpa.github.io/pietro.jpg)
-
+<img alt="Pietro_Scarpa" src="https://pscarpa.github.io/pietro.jpg" width="100">
 
 ## Competencies
 **Legal** 

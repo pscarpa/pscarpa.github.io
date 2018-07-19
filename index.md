@@ -17,6 +17,10 @@ I have been awarded a Degree with Merit from the School of Oriental and African 
 
 
 ## Work history
+**Volunteer Emergency Team Rescuer**	July 2018 - present
+Lighthouse Relief, Lesbos - Greece
+*	Providing assistance in landing to migrants crossing from Turkey to Greece
+
 **Legal Trainee**	December 2017 – July 2018
 Alimadhi Law Firm, Italy
 *	Providing legal assistance to asylum seekers in RSD procedures

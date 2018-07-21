@@ -6,16 +6,14 @@ Student and practitioner of Refugee Protection, I experienced supporting both re
 **Accounting & Operations Support**
 Having a degree in Economics from a leading European university and thanks to a stint at KPMG, the global External Audit firm, I acquired skills in both Accounting and Administration. Experiences in Operations Supports in a Development project, and an Electoral Campaign furthered the ability to tackle roles efficiently in Project Management and in handling high volumes of paperwork. 
 
-**Editorial activities and Communications**
-Involved several times in communications work, I started my professional career at Lavoce, Italian opinion leading magazine, supporting editorial activities and thanks to good recommendations I did a consultancy to the Italian Fiscal Council. Then, freelance Web Designer, currently I am in the Communications unit of a political movement.
-
 **First Aid & Psychological First Aid**
 Ambulance Worker and Civil Protection Volunteer, I am trained and have experience in supporting people in distress and emergencies, by providing the due care, both medical then psychological, to stabilise the patients. I hold a certificate in Psychological First Aid and training in First Aid.
 
 **International Development**
 I have been awarded a Degree with Merit from the School of Oriental and African Studies (SOAS) of University of London, leading institution in the field, and worked in Argentina by being in charge of improving and research the feasibility of a project of Slum upgrading and Microfinance. Also, I supported the Argentinian NGO Horizonte de Maxima in conceptualising the development of their programme of building emergency shelters.
 
-
+**Editorial activities and Communications**
+Involved several times in communications work, I started my professional career at Lavoce, Italian opinion leading magazine, supporting editorial activities and thanks to good recommendations I did a consultancy to the Italian Fiscal Council. Then, freelance Web Designer, currently I am in the Communications unit of a political movement.
 
 ## Work history
 **Volunteer Emergency Team Rescuer**	July 2018 - present

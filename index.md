@@ -1,10 +1,14 @@
-# Legal&Business Translation
-Professional Freelance Translator, working mainly with pair Italian/English. 
-Vast experience with firm and courts. 
+## Legal&Business Translation
+
+Professional Freelance Translator, working mainly with pair Italian/English.
+
+Vast experience with firm and courts.
+
 Contact me for a quote at pietroscarpa@gmail.com
+
 Other availble pairs: Spanish to English/Italian, French to English/Italian
 
-# Traduzione professionale per documenti legali e aziendali
+## Traduzione di documenti legali e aziendali
 Traduttore professionista in ambito legale e di business, principalmente da e per l'inglese.
 Vasta esperienza presso contesti aziendali e giudiziari. 
 Contatto per un preventivo: pietroscarpa@gmail.com

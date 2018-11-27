@@ -21,7 +21,9 @@
         {% if site.logo %}
         <img alt="Pietro_Scarpa" src="https://pscarpa.github.io/pietro.jpg" width="200">
        {% endif %}
-  
+ 
+<p>{{ site.description | default: site.github.project_tagline }}</p>
+
         {% if site.show_downloads %}
         <ul class="downloads"> 
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a>
